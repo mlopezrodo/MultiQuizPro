@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuiz Pro</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct" translatable="false">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">Start Over</string>
+
+    <array name="all_questions">
+        <item>What is the capital of Bhutan?;Ouagadougou;Phnom Penh;*Thimphu;Senguigui</item>
+        <item>Where is the Es Verda island?;Mallorca;*Ibiza;Menorca;Formentera</item>
+        <item>What is the avogadro number?;3,14;*6,023;12,15;0</item>
+        <item>When is Leila birthday?;13/09/96;28/06/94;15/11/96;*12/10/96</item>
+        <item>How is the richest man of the world?;Amancio Ortega;Marc Lopez-Rodo;*Bil Gates;Carlos Slim</item>
+    </array>
+
+</resources>
